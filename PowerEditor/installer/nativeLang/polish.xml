@@ -586,8 +586,8 @@ Translation note:
 
 			<SHA512FromTextDlg title="Generowanie skrótu SHA-512">
 				<Item id="1932" name="&amp;Generuj dla każdej linii osobny skrót"/>
-				<Item id="1934" name="Co&amp;py to Clipboard"/>
-				<Item id="2" name="&amp;Close"/>
+				<Item id="1934" name="Ko&amp;piuj do Schowka"/>
+				<Item id="2" name="&amp;Zamknij"/>
 			</SHA512FromTextDlg>
 			<PluginsAdminDlg title="Zarządzanie wtyczkami" titleAvailable="Dostępne" titleUpdates="Aktualizacje" titleInstalled="Zainstalowane" titleIncompatible="Niekompatybilne">
 				<ColumnPlugin name="Wtyczka"/>
@@ -820,24 +820,24 @@ Translation note:
 				</StylerDialog>
 				<Folder title="Zawijanie kodu i wart. dom.">
 					<Item id="21101" name="Domyślny styl"/>
-					<Item id="21102" name="Stylizuj"/>
+					<Item id="21102" name="Stylizacja"/>
 					<Item id="21105" name="Dokumentacja"/>
 					<Item id="21106" name="Zawijaj &amp;zwięźle (również puste linie)"/>
 					<Item id="21220" name="Styl zawijania kodu nr 1"/>
 					<Item id="21224" name="Otwarcie:"/>
 					<Item id="21225" name="Środek:"/>
 					<Item id="21226" name="Zamknięcie:"/>
-					<Item id="21227" name="Stylizuj"/>
+					<Item id="21227" name="Stylizacja"/>
 					<Item id="21320" name="Styl zawijania kodu nr 2 (wym. separatory)"/>
 					<Item id="21324" name="Otwarcie:"/>
 					<Item id="21325" name="Środek:"/>
 					<Item id="21326" name="Zamknięcie:"/>
-					<Item id="21327" name="Stylizuj"/>
+					<Item id="21327" name="Stylizacja"/>
 					<Item id="21420" name="Styl zawijania komentarzy"/>
 					<Item id="21424" name="Otwarcie:"/>
 					<Item id="21425" name="Środek:"/>
 					<Item id="21426" name="Zamknięcie:"/>
-					<Item id="21427" name="Stylizuj"/>
+					<Item id="21427" name="Stylizacja"/>
 				</Folder>
 				<Keywords title="Słowa kluczowe">
 					<Item id="22101" name="1. grupa"/>
@@ -871,17 +871,17 @@ Translation note:
 					<Item id="23005" name="Wymuś na początku linii"/>
 					<Item id="23006" name="Pozwól na białe znaki po rozpoczęciu"/>
 					<Item id="23001" name="Pozwól na zawijanie komentarzy"/>
-					<Item id="23326" name="Stylizuj"/>
+					<Item id="23326" name="Stylizacja"/>
 					<Item id="23323" name="Otwarcie:"/>
 					<Item id="23324" name="Znak kontynuacji:"/>
 					<Item id="23325" name="Zamknięcie:"/>
 					<Item id="23301" name="Styl komentarza liniowego"/>
-					<Item id="23124" name="Stylizuj"/>
+					<Item id="23124" name="Stylizacja"/>
 					<Item id="23122" name="Otwarcie:"/>
 					<Item id="23123" name="Zamknięcie:"/>
 					<Item id="23101" name="Styl komentarza"/>
 					<Item id="23201" name="Styl liczb"/>
-					<Item id="23220" name="Stylizuj"/>
+					<Item id="23220" name="Stylizator"/>
 					<Item id="23230" name="Prefiks 1:"/>
 					<Item id="23232" name="Prefiks 2:"/>
 					<Item id="23234" name="Dodatki 1:"/>
@@ -896,49 +896,49 @@ Translation note:
 				</Comment>
 				<Operator title="Operatory i separatory">
 					<Item id="24101" name="Styl operatorów"/>
-					<Item id="24113" name="Stylizuj"/>
+					<Item id="24113" name="Stylizator"/>
 					<Item id="24116" name="Operatory 1"/>
 					<Item id="24117" name="Operatory 2 (wymagane separatory)"/>
 					<Item id="24201" name="Styl separatora nr 1"/>
 					<Item id="24220" name="Otwarcie:"/>
-					<Item id="24221" name="Ucieczka:"/>
+					<Item id="24221" name="Wyjście:"/>
 					<Item id="24222" name="Zamknięcie:"/>
-					<Item id="24223" name="Stylizuj"/>
+					<Item id="24223" name="Stylizator"/>
 					<Item id="24301" name="Styl separatora nr 2"/>
 					<Item id="24320" name="Otwarcie:"/>
-					<Item id="24321" name="Ucieczka:"/>
+					<Item id="24321" name="Wyjście:"/>
 					<Item id="24322" name="Zamknięcie:"/>
-					<Item id="24323" name="Stylizuj"/>
+					<Item id="24323" name="Stylizator"/>
 					<Item id="24401" name="Styl separatora nr 3"/>
 					<Item id="24420" name="Otwarcie:"/>
-					<Item id="24421" name="Ucieczka:"/>
+					<Item id="24421" name="Wyjście:"/>
 					<Item id="24422" name="Zamknięcie:"/>
-					<Item id="24423" name="Stylizuj"/>
+					<Item id="24423" name="Stylizator"/>
 					<Item id="24451" name="Styl separatora nr 4"/>
 					<Item id="24470" name="Otwarcie:"/>
-					<Item id="24471" name="Ucieczka:"/>
+					<Item id="24471" name="Wyjście:"/>
 					<Item id="24472" name="Zamknięcie:"/>
-					<Item id="24473" name="Stylizuj"/>
+					<Item id="24473" name="Stylizator"/>
 					<Item id="24501" name="Styl separatora nr 5"/>
 					<Item id="24520" name="Otwarcie:"/>
-					<Item id="24521" name="Ucieczka:"/>
+					<Item id="24521" name="Wyjście:"/>
 					<Item id="24522" name="Zamknięcie:"/>
-					<Item id="24523" name="Stylizuj"/>
+					<Item id="24523" name="Stylizator"/>
 					<Item id="24551" name="Styl separatora nr 6"/>
 					<Item id="24570" name="Otwarcie:"/>
-					<Item id="24571" name="Ucieczka:"/>
+					<Item id="24571" name="Wyjście:"/>
 					<Item id="24572" name="Zamknięcie:"/>
-					<Item id="24573" name="Stylizuj"/>
+					<Item id="24573" name="Stylizator"/>
 					<Item id="24601" name="Styl separatora nr 7"/>
 					<Item id="24620" name="Otwarcie:"/>
-					<Item id="24621" name="Ucieczka:"/>
+					<Item id="24621" name="Wyjście:"/>
 					<Item id="24622" name="Zamknięcie:"/>
-					<Item id="24623" name="Stylizuj"/>
+					<Item id="24623" name="Stylizator"/>
 					<Item id="24651" name="Styl separatora nr 8"/>
 					<Item id="24670" name="Otwarcie:"/>
-					<Item id="24671" name="Ucieczka:"/>
+					<Item id="24671" name="Wyjście:"/>
 					<Item id="24672" name="Zamknięcie:"/>
-					<Item id="24673" name="Stylizuj"/>
+					<Item id="24673" name="Stylizator"/>
 				</Operator>
 			</UserDefine>
 			<Preference title="Ustawienia">
@@ -946,10 +946,10 @@ Translation note:
 				<Global title="Ogólne">
 					<Item id="6101" name="Pasek narzędzi"/>
 					<Item id="6102" name="Ukryj"/>
-					<Item id="6103" name="Fluent UI: małe ikony"/>
-					<Item id="6104" name="Fluent UI: duże ikony"/>
-					<Item id="6129" name="Filled Fluent UI: małe ikony"/>
-					<Item id="6130" name="Filled Fluent UI: duże ikony"/>
+					<Item id="6103" name="Płynne UI: małe ikony"/>
+					<Item id="6104" name="Płynne UI: duże ikony"/>
+					<Item id="6129" name="Płynne Wypełnienie UI: małe ikony"/>
+					<Item id="6130" name="Płynne Wypełnienie UI: duże ikony"/>
 					<Item id="6105" name="Klasyczny wygląd: małe ikony"/>
 
 					<Item id="6106" name="Pasek kart"/>
@@ -1019,18 +1019,18 @@ Translation note:
 					<Item id="7108" name="Cyjanowy"/>
 					<Item id="7109" name="Oliwkowy"/>
 					<Item id="7115" name="Własny"/>
-					<Item id="7116" name="Top"/>
-					<Item id="7117" name="Menu hot track"/>
-					<Item id="7118" name="Active"/>
-					<Item id="7119" name="Main"/>
-					<Item id="7120" name="Error"/>
-					<Item id="7121" name="Text"/>
-					<Item id="7122" name="Darker text"/>
-					<Item id="7123" name="Disabled text"/>
-					<Item id="7124" name="Edge"/>
+					<Item id="7116" name="Góra"/>
+					<Item id="7117" name="Menu gorącej ścieżki"/>
+					<Item id="7118" name="Aktywne"/>
+					<Item id="7119" name="Główne"/>
+					<Item id="7120" name="Błąd"/>
+					<Item id="7121" name="Tekst"/>
+					<Item id="7122" name="Ciemniejszy tekst"/>
+					<Item id="7123" name="Wyłączony tekst"/>
+					<Item id="7124" name="Krawędź"/>
 					<Item id="7125" name="Link"/>
-					<Item id="7126" name="Edge highlight"/>
-					<Item id="7127" name="Edge disabled"/>
+					<Item id="7126" name="Podświetlenie krawędzi"/>
+					<Item id="7127" name="Krawędź wyłączona"/>
 					<Item id="7130" name="Resetuj"/>
 					<Item id="7135" name="Odcienie"/>
 				</DarkMode>
