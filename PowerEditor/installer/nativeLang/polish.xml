@@ -586,8 +586,8 @@ Translation note:
 
 			<SHA512FromTextDlg title="Generowanie skrótu SHA-512">
 				<Item id="1932" name="&amp;Generuj dla każdej linii osobny skrót"/>
-				<Item id="1934" name="Co&amp;py to Clipboard"/>
-				<Item id="2" name="&amp;Close"/>
+				<Item id="1934" name="Ko&amp;piuj do Schowka"/>
+				<Item id="2" name="&amp;Zamknij"/>
 			</SHA512FromTextDlg>
 			<PluginsAdminDlg title="Zarządzanie wtyczkami" titleAvailable="Dostępne" titleUpdates="Aktualizacje" titleInstalled="Zainstalowane" titleIncompatible="Niekompatybilne">
 				<ColumnPlugin name="Wtyczka"/>
@@ -936,7 +936,7 @@ Translation note:
 					<Item id="24623" name="Stylizuj"/>
 					<Item id="24651" name="Styl separatora nr 8"/>
 					<Item id="24670" name="Otwarcie:"/>
-					<Item id="24671" name="Ucieczka:"/>
+					<Item id="24671" name="Wyjście:"/>
 					<Item id="24672" name="Zamknięcie:"/>
 					<Item id="24673" name="Stylizuj"/>
 				</Operator>
@@ -1020,17 +1020,17 @@ Translation note:
 					<Item id="7109" name="Oliwkowy"/>
 					<Item id="7115" name="Własny"/>
 					<Item id="7116" name="Top"/>
-					<Item id="7117" name="Menu hot track"/>
-					<Item id="7118" name="Active"/>
-					<Item id="7119" name="Main"/>
-					<Item id="7120" name="Error"/>
-					<Item id="7121" name="Text"/>
-					<Item id="7122" name="Darker text"/>
-					<Item id="7123" name="Disabled text"/>
-					<Item id="7124" name="Edge"/>
+					<Item id="7117" name="Menu gorącej ścieżki"/>
+					<Item id="7118" name="Aktywna"/>
+					<Item id="7119" name="Główny"/>
+					<Item id="7120" name="Błąd"/>
+					<Item id="7121" name="Tekst"/>
+					<Item id="7122" name="Ciemniejszy tekst"/>
+					<Item id="7123" name="Wyłączony tekst"/>
+					<Item id="7124" name="Krawędź"/>
 					<Item id="7125" name="Link"/>
-					<Item id="7126" name="Edge highlight"/>
-					<Item id="7127" name="Edge disabled"/>
+					<Item id="7126" name="Podświetlenie krawędzi"/>
+					<Item id="7127" name="Krawędź wyłączona"/>
 					<Item id="7130" name="Resetuj"/>
 					<Item id="7135" name="Odcienie"/>
 				</DarkMode>
